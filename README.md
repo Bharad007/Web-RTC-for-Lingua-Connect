@@ -1,4 +1,4 @@
-# zoom-clone
+# Web-RTC feature for Lingua Connect 
 Server-Side Setup:
 
 The server is built using Express.js framework.
